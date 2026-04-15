@@ -37,7 +37,9 @@ p {
 }
 
 /* Compleate challenge down here */
-
-
-
-
+.Yellow-box{
+  width: 25vw;
+  border: 20px;
+  background-color: yellow;
+  display: inline-block;
+}
